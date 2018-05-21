@@ -3,7 +3,7 @@
         {   
             "id": "1",
             "name": "商品名称1商品名称1商品名称1商品名称1商品名称1v商品名称1",
-            "imgurl": [ "http://localhost:8080/src/img/1.jpg", "http://localhost:8080/src/img/1.jpg", "http://localhost:8080/src/img/1.jpg", "http://localhost:8080/src/img/1.jpg", "http://localhost:8080/src/img/1.jpg"],
+            "imgurl": [ "http://dwqc.gitee.io/mobilemall/src/img/1.jpg", "http://dwqc.gitee.io/mobilemall/src/img/1.jpg", "http://dwqc.gitee.io/mobilemall/src/img/1.jpg", "http://dwqc.gitee.io/mobilemall/src/img/1.jpg", "http://dwqc.gitee.io/mobilemall/src/img/1.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id",
@@ -17,7 +17,7 @@
         {
             "id": "2",
             "name": "商品名称2",
-            "imgurl": ["http://localhost:8080/src/img/2.jpg","http://localhost:8080/src/img/2.jpg","http://localhost:8080/src/img/2.jpg","http://localhost:8080/src/img/2.jpg","http://localhost:8080/src/img/2.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/2.jpg","http://dwqc.gitee.io/mobilemall/src/img/2.jpg","http://dwqc.gitee.io/mobilemall/src/img/2.jpg","http://dwqc.gitee.io/mobilemall/src/img/2.jpg","http://dwqc.gitee.io/mobilemall/src/img/2.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id1",
@@ -54,7 +54,7 @@
         {
             "id": "3",
             "name": "商品名称3",
-            "imgurl": ["http://localhost:8080/src/img/3.jpg","http://localhost:8080/src/img/3.jpg","http://localhost:8080/src/img/3.jpg","http://localhost:8080/src/img/3.jpg","http://localhost:8080/src/img/3.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/3.jpg","http://dwqc.gitee.io/mobilemall/src/img/3.jpg","http://dwqc.gitee.io/mobilemall/src/img/3.jpg","http://dwqc.gitee.io/mobilemall/src/img/3.jpg","http://dwqc.gitee.io/mobilemall/src/img/3.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id1",
@@ -73,7 +73,7 @@
         {   
             "id": "4",
             "name": "商品名称4",
-            "imgurl": ["http://localhost:8080/src/img/4.jpg","http://localhost:8080/src/img/4.jpg","http://localhost:8080/src/img/4.jpg","http://localhost:8080/src/img/4.jpg","http://localhost:8080/src/img/4.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/4.jpg","http://dwqc.gitee.io/mobilemall/src/img/4.jpg","http://dwqc.gitee.io/mobilemall/src/img/4.jpg","http://dwqc.gitee.io/mobilemall/src/img/4.jpg","http://dwqc.gitee.io/mobilemall/src/img/4.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id",
@@ -93,7 +93,7 @@
         {
             "id": "5",
             "name": "商品名称5",
-            "imgurl": ["http://localhost:8080/src/img/5.jpg","http://localhost:8080/src/img/5.jpg","http://localhost:8080/src/img/5.jpg","http://localhost:8080/src/img/5.jpg","http://localhost:8080/src/img/5.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/5.jpg","http://dwqc.gitee.io/mobilemall/src/img/5.jpg","http://dwqc.gitee.io/mobilemall/src/img/5.jpg","http://dwqc.gitee.io/mobilemall/src/img/5.jpg","http://dwqc.gitee.io/mobilemall/src/img/5.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id1",
@@ -112,7 +112,7 @@
         {
             "id": "6",
             "name": "商品名称6",
-            "imgurl": ["http://localhost:8080/src/img/6.jpg","http://localhost:8080/src/img/6.jpg","http://localhost:8080/src/img/6.jpg","http://localhost:8080/src/img/6.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/6.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id1",
@@ -130,7 +130,7 @@
         },{   
             "id": "7",
             "name": "商品名称7",
-            "imgurl": ["http://localhost:8080/src/img/7.jpg","http://localhost:8080/src/img/6.jpg","http://localhost:8080/src/img/6.jpg","http://localhost:8080/src/img/6.jpg","http://localhost:8080/src/img/6.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/7.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg","http://dwqc.gitee.io/mobilemall/src/img/6.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id",
@@ -150,7 +150,7 @@
         {
             "id": "8",
             "name": "商品名称8",
-            "imgurl": ["http://localhost:8080/src/img/8.jpg","http://localhost:8080/src/img/8.jpg","http://localhost:8080/src/img/8.jpg","http://localhost:8080/src/img/8.jpg","http://localhost:8080/src/img/8.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/8.jpg","http://dwqc.gitee.io/mobilemall/src/img/8.jpg","http://dwqc.gitee.io/mobilemall/src/img/8.jpg","http://dwqc.gitee.io/mobilemall/src/img/8.jpg","http://dwqc.gitee.io/mobilemall/src/img/8.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id1",
@@ -169,7 +169,7 @@
         {
             "id": "9",
             "name": "商品名称9",
-            "imgurl": ["http://localhost:8080/src/img/10.jpg","http://localhost:8080/src/img/10.jpg","http://localhost:8080/src/img/10.jpg","http://localhost:8080/src/img/10.jpg"],
+            "imgurl": ["http://dwqc.gitee.io/mobilemall/src/img/10.jpg","http://dwqc.gitee.io/mobilemall/src/img/10.jpg","http://dwqc.gitee.io/mobilemall/src/img/10.jpg","http://dwqc.gitee.io/mobilemall/src/img/10.jpg"],
             "spectList":[
                 {
                     "nid": "商品库存id1",
