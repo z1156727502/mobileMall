@@ -7,7 +7,7 @@ let b = false;
 let init = () => {
     $.ajax({
         type: 'GET',
-        url: '.../api/goodsList.json',
+        url: 'http://dwqc.gitee.io/mobilemall/api/goodsList.json',
         success: (data) => {
             activeData = searchId(data);
            },

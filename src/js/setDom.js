@@ -5,7 +5,7 @@ function createList(data) {
     let str = '';
     data.forEach((ele, index) => {
         str += ` <li>
-                    <a href = ".../info.html?id=${ele.id}">
+                    <a href = "http://dwqc.gitee.io/mobilemall/info.html?id=${ele.id}">
                         <img src="${ele.imgurl[0]}" alt="商品展示">
                         <div class="info">
                             <h5 class="title">${ele.name}</h5>
