@@ -7,7 +7,7 @@ let b = false;
 let init = () => {
     $.ajax({
         type: 'GET',
-        url: 'http://localhost:8080/api/goodsList.json',
+        url: '.../api/goodsList.json',
         success: (data) => {
             activeData = searchId(data);
            },
